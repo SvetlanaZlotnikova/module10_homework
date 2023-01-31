@@ -1,0 +1,34 @@
+.change_button {
+    width: 300px;
+    height: 50px;
+    background-color: rgb(47, 198, 236);
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    outline: none;
+    display: flex;
+    border: none;
+   }
+
+.change_button:hover {
+    background-color: rgb(125, 141, 175);
+}
+
+
+
+.btn-text {
+    font-size: 20px;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: left;
+    margin-top: 50px;
+}
+
+.btn_icon {
+    margin: auto;
+    position: relative;
+}
+
+
